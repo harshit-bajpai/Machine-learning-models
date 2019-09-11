@@ -2,7 +2,7 @@
 ## Wine Quality
 ### Exploratory Data Analysis
 
-[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/fraud_detection.ipynb)
+[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/wine_quality.ipynb)
 
 This notebook outlines the formats and syntaxes for all the necessary plots in EDA phase of a data (with only numeric and nominal attributes). It also has an elementary GBT model development to validate our variable importance with correlations from EDA.
 
@@ -10,7 +10,7 @@ This notebook outlines the formats and syntaxes for all the necessary plots in E
 ## Occupancy Detection 
 ### Classification 
 
-[nb-viewer](https://nbviewer.jupyter.org/github.com/harshit-bajpai/Machine-learning-models/blob/master/occupancy_detection.ipynb)
+[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/occupancy_detection.ipynb)
 
 This notebook encompasses:
 - Data Visualization
