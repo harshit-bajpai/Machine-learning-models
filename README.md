@@ -30,3 +30,35 @@ This notebook encompasses:
 
 [nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/metro_interstate_traffic_volumne.ipynb)
 
+This notebook encompasses:
+- Data Visualization
+  - Histograms
+  - Time Series Plots
+  - Correlation Matix
+  - Box Plots
+  - Pair Plots
+- Feature Generation
+- Model Development
+  - Decison Tree Regressor
+  - Random Forest Regressor
+    - Cross Validation
+    - Grid Optimization
+  - Variable Importance
+
+
+## Concrete Compressive Strength
+### Regression with interpretability
+
+[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/metro_interstate_traffic_volumne.ipynb)
+
+This notebook encompasses:
+- Data Visualization
+  - Histograms
+  - Correlation Matix
+  - Pair Plots
+- Model Development
+  - Random Forest Regressor
+    - Cross Validation
+    - Hyper Paramter Optimization
+    - Variable Importance
+    - Partial Dependency plots
