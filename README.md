@@ -49,7 +49,7 @@ This notebook encompasses:
 ## Concrete Compressive Strength
 ### Regression with interpretability
 
-[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/metro_interstate_traffic_volumne.ipynb)
+[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/concrete_compressive_strength.ipynb)
 
 This notebook encompasses:
 - Data Visualization
