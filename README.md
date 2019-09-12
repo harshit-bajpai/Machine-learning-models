@@ -62,3 +62,8 @@ This notebook encompasses:
     - Hyper Paramter Optimization
     - Variable Importance
     - Partial Dependency plots
+  - Gradient Boosting Regressor
+    - Cross Validation
+    - Hyper Paramter Optimization
+    - Variable Importance
+    - Partial Dependency plots
