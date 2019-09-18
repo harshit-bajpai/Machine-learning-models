@@ -4,3 +4,4 @@
 .ipynb_checkpoints/metro_interstate_traffic_volumne-checkpoint.ipynb
 .ipynb_checkpoints/occupancy_detection-checkpoint.ipynb
 .ipynb_checkpoints/wine_quality-checkpoint.ipynb
+*.csv
