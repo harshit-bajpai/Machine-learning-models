@@ -2,7 +2,7 @@
 ## 1. Wine Quality
 ### Exploratory Data Analysis
 
-[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/supervised%20learning/wine_quality.ipynb)
+[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/wine_quality.ipynb)
 
 This notebook outlines the formats and syntaxes for all the necessary plots in EDA phase of a data (with only numeric and nominal attributes). It also has an elementary GBT model development to validate our variable importance with correlations from EDA.
 
@@ -10,7 +10,7 @@ This notebook outlines the formats and syntaxes for all the necessary plots in E
 ## 2. Occupancy Detection 
 ### Classification 
 
-[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/supervised%20learning/occupancy_detection.ipynb)
+[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/occupancy_detection.ipynb)
 
 This notebook encompasses:
 - Data Visualization
@@ -28,7 +28,7 @@ This notebook encompasses:
 ## 3. Metro Interstate Traffic Volumne
 ### Regression
 
-[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/supervised%20learning/metro_interstate_traffic_volumne.ipynb)
+[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/metro_interstate_traffic_volumne.ipynb)
 
 This notebook encompasses:
 - Data Visualization
@@ -49,7 +49,7 @@ This notebook encompasses:
 ## 4. Concrete Compressive Strength
 ### Regression with interpretability
 
-[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/supervised%20learning/concrete_compressive_strength.ipynb)
+[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/Machine-learning-models/blob/master/concrete_compressive_strength.ipynb)
 
 This notebook encompasses:
 - Data Visualization
