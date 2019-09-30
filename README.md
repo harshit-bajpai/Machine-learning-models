@@ -67,3 +67,19 @@ This notebook encompasses:
     - Hyper Paramter Optimization
     - Variable Importance
     - Partial Dependency plots
+
+## 5. Predictive Maintenance of machines
+### Xgboost and interpretablity
+
+[nb-viewer](https://nbviewer.jupyter.org/github/harshit-bajpai/machine-learning-models/blob/master/machine_predictive_maintenance.ipynb)
+
+This notebook encompasses:
+- Data Import
+- Data Cleaning and Transformation
+- Data Visualization
+- Model Development
+- Global and local interpretablity through different libaries
+  - Using sklearn
+  - Using xgboost
+  - Using ELI5
+  - Using SHAP
